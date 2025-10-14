@@ -35,7 +35,7 @@
     "@reduxjs/toolkit": "^2.7.0",
     "@tabler/icons-react": "^3.31.0",
     "@tanstack/react-table": "^8.21.3",
-    "axios": "^1.8.4",
+    "axios": "^1.12.0",
     "class-variance-authority": "^0.7.1",
     "cloudinary": "^2.6.0",
     "clsx": "^2.1.1",
