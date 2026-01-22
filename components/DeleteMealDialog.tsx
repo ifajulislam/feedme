@@ -17,7 +17,7 @@ import { toast } from "react-hot-toast";
 interface AddOn {
   name: string;
   price: number;
-  id: string;
+  _id: string;
 }
 
 interface CustomizationOptions {
